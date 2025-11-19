@@ -10,7 +10,7 @@ from [ASIMOV](https://asimov.systems).*
 - [Reading](#reading)
 - [Asks](#asks)
 
-![QR code for the link to this repository](./qr.png)
+![QR code for the link to this repository](./.img/qr.png)
 
 ## [Events](https://luma.com/asimov-sf)
 
@@ -77,13 +77,13 @@ Name | Label | Summary | Package
 
 ### 2025-11-07 Associated Press
 
-[![ASIMOV Platform 25.0 Launches: Turning Web Data Into Verifiable Intelligence](./screencap-apnews.jpg)](https://apnews.com/press-release/ein-presswire-newsmatics/asimov-platform-25-0-launches-turning-web-data-into-verifiable-intelligence-663eb0635758f34ab27aef7d1c04b4c4)
+[![ASIMOV Platform 25.0 Launches: Turning Web Data Into Verifiable Intelligence](./.img/screencap-apnews.jpg)](https://apnews.com/press-release/ein-presswire-newsmatics/asimov-platform-25-0-launches-turning-web-data-into-verifiable-intelligence-663eb0635758f34ab27aef7d1c04b4c4)
 
 [ASIMOV Platform 25.0 Launches: Turning Web Data Into Verifiable Intelligence](https://apnews.com/press-release/ein-presswire-newsmatics/asimov-platform-25-0-launches-turning-web-data-into-verifiable-intelligence-663eb0635758f34ab27aef7d1c04b4c4)
 
 ### 2025-07-01 ASIMOV Blog
 
-[![Introducing ASIMOV: A Platform for Trustworthy Neurosymbolic AI](./screencap-blog.jpg)](https://asimov.blog/introducing-asimov/)
+[![Introducing ASIMOV: A Platform for Trustworthy Neurosymbolic AI](./.img/screencap-blog.jpg)](https://asimov.blog/introducing-asimov/)
 
 [Introducing ASIMOV: A Platform for Trustworthy Neurosymbolic AI](https://asimov.blog/introducing-asimov/)
 

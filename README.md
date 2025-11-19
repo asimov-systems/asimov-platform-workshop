@@ -5,9 +5,9 @@
 from [ASIMOV](https://asimov.systems).*
 
 - [Events](#events)
-- [Instructions](#instructions)
+- [Reference](#reference)
 - [Modules](#modules)
-- [Background](#background)
+- [Reading](#reading)
 - [Asks](#asks)
 
 ![QR code for the link to this repository](./qr.png)
@@ -35,7 +35,7 @@ cargo install asimov-cli                     # any platform with Rust
 ### 2. Install ASIMOV Modules
 
 ```bash
-asimov module install all                    # all public modules
+asimov module install all                    # all ~30 public modules
 asimov module install luma                   # a specific module
 ```
 
@@ -73,7 +73,7 @@ Name | Label | Summary | Package
 [x](https://github.com/asimov-modules/asimov-x-module) | X | Data import powered by the X platform via official API endpoints. | [🦀](https://crates.io/crates/asimov-x-module)
 [xai](https://github.com/asimov-modules/asimov-xai-module) | xAI | LLM inference powered by xAI. | [🦀](https://crates.io/crates/asimov-xai-module)
 
-## Background
+## Reading
 
 ### 2025-11-07 Associated Press
 
@@ -86,6 +86,12 @@ Name | Label | Summary | Package
 [![Introducing ASIMOV: A Platform for Trustworthy Neurosymbolic AI](./screencap-blog.jpg)](https://asimov.blog/introducing-asimov/)
 
 [Introducing ASIMOV: A Platform for Trustworthy Neurosymbolic AI](https://asimov.blog/introducing-asimov/)
+
+### Miscellaneous Background
+
+- [Knowledge Graphs — What, Why, and How](https://samadritaghosh.medium.com/knowledge-graphs-what-why-and-how-84f920316ca5)
+- [Why RDF Is the Natural Knowledge Layer for AI Systems](https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5)
+- [RDF 1.2 Primer](https://www.w3.org/TR/rdf12-primer/) & [RDF 1.2 Concepts and Abstract Data Model](https://www.w3.org/TR/rdf12-concepts/)
 
 ## Asks
 

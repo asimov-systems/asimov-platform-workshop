@@ -22,6 +22,23 @@ When | Weekday | Where | Venue
 
 ## Instructions
 
+### 1. Install the [ASIMOV Command-Line Interface (CLI)](https://github.com/asimov-platform/asimov-cli)
+
+```bash
+brew install asimov-platform/tap/asimov-cli  # macOS with Homebrew
+scoop install asimov-platform/asimov-cli     # Windows with Scoop
+cargo install asimov-cli                     # any platform with Rust
+```
+
+*PS. The best way to install the Rust toolchain is [`rustup`](https://rustup.rs)*
+
+### 2. Install ASIMOV Modules
+
+```bash
+asimov module install all                    # all public modules
+asimov module install luma                   # a specific module
+```
+
 ## [Modules](https://asimov.directory/modules)
 
 Name | Label | Summary | Package

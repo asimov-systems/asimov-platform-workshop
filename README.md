@@ -1,7 +1,12 @@
 # ASIMOV DevLabs Workshops
 
-*Hosted by [Arto](https://x.com/bendiken) & [Tom](https://x.com/TomFellenzAIPM)
+*Hosted by Arto ([X](https://x.com/bendiken), [LinkedIn](https://www.linkedin.com/in/arto/))
+& Tom ([X](https://x.com/TomFellenzAIPM), [LinkedIn](https://www.linkedin.com/in/tomfellenz/))
 from [ASIMOV](https://x.com/ASIMOV_Protocol).*
+
+- [Events](#events)
+- [Background](#background)
+- [QR Code](#qr-code)
 
 ## Events
 

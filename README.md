@@ -1,8 +1,8 @@
 # ASIMOV DevLabs Workshops
 
-*Hosted by Arto ([X](https://x.com/bendiken), [LinkedIn](https://www.linkedin.com/in/arto/))
-& Tom ([X](https://x.com/TomFellenzAIPM), [LinkedIn](https://www.linkedin.com/in/tomfellenz/))
-from [ASIMOV](https://x.com/ASIMOV_Protocol).*
+*Hosted by Arto (arto@asimov.systems, [X](https://x.com/bendiken), [LinkedIn](https://www.linkedin.com/in/arto/))
+& Tom (tom@asimov.systems, [X](https://x.com/TomFellenzAIPM), [LinkedIn](https://www.linkedin.com/in/tomfellenz/))
+from [ASIMOV](https://asimov.systems).*
 
 - [Events](#events)
 - [Background](#background)

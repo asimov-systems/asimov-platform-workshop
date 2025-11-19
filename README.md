@@ -10,7 +10,7 @@ from [ASIMOV](https://asimov.systems).*
 - [Reading](#reading)
 - [Asks](#asks)
 
-![QR code for the link to this repository](./.img/qr.png)
+<p align="center"><img src="https://github.com/asimov-systems/asimov-platform-workshop/raw/master/.img/qr.png" alt="QR code for the link to this repository" style="max-width: 100%;"></p>
 
 ## [Events](https://luma.com/asimov-sf)
 

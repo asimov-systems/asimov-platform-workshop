@@ -89,6 +89,7 @@ Name | Label | Summary | Package
 
 ### Miscellaneous Background
 
+- [KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models](https://arxiv.org/abs/2405.19877)
 - [Knowledge Graphs — What, Why, and How](https://samadritaghosh.medium.com/knowledge-graphs-what-why-and-how-84f920316ca5)
 - [Why RDF Is the Natural Knowledge Layer for AI Systems](https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5)
 - [RDF 1.2 Primer](https://www.w3.org/TR/rdf12-primer/) & [RDF 1.2 Concepts and Abstract Data Model](https://www.w3.org/TR/rdf12-concepts/)

@@ -10,7 +10,7 @@ from [ASIMOV](https://asimov.systems).*
 - [Reading](#reading)
 - [Asks](#asks)
 
-<p align="center"><img src="https://github.com/asimov-systems/asimov-platform-workshop/raw/master/.img/qr.png" alt="QR code for the link to this repository" style="max-width: 100%;"></p>
+<p align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fgithub.com%2Fasimov-systems%2Fasimov-platform-workshop" alt="QR code for the link to this repository" style="max-width: 100%;"></p>
 
 ## [Events](https://luma.com/asimov-sf)
 
@@ -84,6 +84,8 @@ Name | Label | Summary | Package
 
 [![AI’s Trillion-Dollar Opportunity: Context Graphs](./.img/screencap-cg.jpeg)](https://foundationcapital.com/ideas/context-graphs-ais-trillion-dollar-opportunity)
 
+[AI’s Trillion-Dollar Opportunity: Context Graphs](https://foundationcapital.com/ideas/context-graphs-ais-trillion-dollar-opportunity)
+
 ### 2025-11-07 Associated Press
 
 [![ASIMOV Platform 25.0 Launches: Turning Web Data Into Verifiable Intelligence](./.img/screencap-apnews.jpeg)](https://apnews.com/press-release/ein-presswire-newsmatics/asimov-platform-25-0-launches-turning-web-data-into-verifiable-intelligence-663eb0635758f34ab27aef7d1c04b4c4)
@@ -108,7 +110,8 @@ Name | Label | Summary | Package
 1. ⭐ Star on GitHub:
   [asimov-platform/asimov-cli](https://github.com/asimov-platform/asimov-cli),
   [asimov-platform/asimov.rs](https://github.com/asimov-platform/asimov.rs),
-  [asimov-platform/asimov.py](https://github.com/asimov-platform/asimov.py)
+  [asimov-platform/asimov.py](https://github.com/asimov-platform/asimov.py),
+  [flux-doctrine/awesome-fbp](https://github.com/flux-doctrine/awesome-fbp)
 
 2. 👉 Follow on X (Twitter):
   [@ASIMOV_Protocol](https://x.com/ASIMOV_Protocol),
@@ -121,3 +124,7 @@ Name | Label | Summary | Package
   [Arto Bendiken](https://www.linkedin.com/in/arto/),
   [Tom Fellenz](https://www.linkedin.com/in/tomfellenz/),
   [Rob Kunkle](https://www.linkedin.com/in/robkunkle/)
+
+4. ✅ Sign up for [early access to ASIMOV Personal Intelligence](https://id.asimov.systems/join/asimov-devlabs-5):
+
+<p align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fid.asimov.systems%2Fjoin%2Fasimov-devlabs-5" alt="QR code for early access" style="max-width: 100%;"></p>

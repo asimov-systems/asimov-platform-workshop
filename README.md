@@ -1,7 +1,7 @@
 # ASIMOV DevLabs Workshops
 
 *Hosted by Arto (arto@asimov.systems, [X](https://x.com/bendiken), [LinkedIn](https://www.linkedin.com/in/arto/))
-& Tom (tom@asimov.systems, [X](https://x.com/TomFellenzAIPM), [LinkedIn](https://www.linkedin.com/in/tomfellenz/))
+& Tom (tom@asimov.systems, [X](https://x.com/FellenzMusic), [LinkedIn](https://www.linkedin.com/in/tomfellenz/))
 from [ASIMOV](https://asimov.systems).*
 
 - [Events](#events)
@@ -34,7 +34,8 @@ scoop install asimov-platform/asimov-cli     # Windows with Scoop
 cargo install asimov-cli                     # any platform with Rust
 ```
 
-*PS. The best way to install the Rust toolchain is [`rustup`](https://rustup.rs)*
+> [!TIP]
+> *PS. If you need it, the quickest way to install an up-to-date Rust toolchain is [`rustup`](https://rustup.rs)*
 
 ### 2. Install ASIMOV Modules
 
@@ -104,17 +105,19 @@ Name | Label | Summary | Package
 
 ## Asks
 
-1. Star on GitHub:
+1. ⭐ Star on GitHub:
   [asimov-platform/asimov-cli](https://github.com/asimov-platform/asimov-cli),
   [asimov-platform/asimov.rs](https://github.com/asimov-platform/asimov.rs),
   [asimov-platform/asimov.py](https://github.com/asimov-platform/asimov.py)
 
-2. Follow on X (Twitter):
+2. 👉 Follow on X (Twitter):
   [@ASIMOV_Protocol](https://x.com/ASIMOV_Protocol),
   [@bendiken](https://x.com/bendiken),
-  [@TomFellenzAIPM](https://x.com/TomFellenzAIPM)
+  [@FellenzMusic](https://x.com/FellenzMusic),
+  [@lux](https://x.com/lux)
 
-3. Connect on LinkedIn:
+3. 🤝 Connect on LinkedIn:
   [ASIMOV Protocol](https://www.linkedin.com/company/asimov-protocol/),
   [Arto Bendiken](https://www.linkedin.com/in/arto/),
-  [Tom Fellenz](https://www.linkedin.com/in/tomfellenz/)
+  [Tom Fellenz](https://www.linkedin.com/in/tomfellenz/),
+  [Rob Kunkle](https://www.linkedin.com/in/robkunkle/)

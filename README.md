@@ -16,6 +16,10 @@ from [ASIMOV](https://asimov.systems).*
 
 When | Weekday | Where | Venue
 :--- | :------ | :---- | :----
+[April 2](https://luma.com/3m6y5xeo) | Thursday | Mountain View | Circuit Launch
+[March 19](https://luma.com/8ewasi4c) | Thursday | San Francisco | TBD
+[March 12](https://luma.com/y1eszitt) | Thursday | San Francisco (Downtown) | Cole Frieman & Mallon
+[March 5](https://luma.com/9n47y8c4) | Thursday | Oakland | Circuit Launch
 [November 25](https://luma.com/ne0t516s) | Tuesday | Mountain View | Circuit Launch
 [November 19](https://luma.com/x9i5ca56) | Wednesday | Oakland | Circuit Launch
 [November 12](https://luma.com/flmq0i8c) | Wednesday | San Francisco (Downtown) | Cole Frieman & Mallon

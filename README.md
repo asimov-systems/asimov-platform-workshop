@@ -79,15 +79,19 @@ Name | Label | Summary | Package
 
 ## Reading
 
+### 2025-12-22 Foundation Capital
+
+[![AI’s Trillion-Dollar Opportunity: Context Graphs](./.img/screencap-cg.jpeg)](https://foundationcapital.com/ideas/context-graphs-ais-trillion-dollar-opportunity)
+
 ### 2025-11-07 Associated Press
 
-[![ASIMOV Platform 25.0 Launches: Turning Web Data Into Verifiable Intelligence](./.img/screencap-apnews.jpg)](https://apnews.com/press-release/ein-presswire-newsmatics/asimov-platform-25-0-launches-turning-web-data-into-verifiable-intelligence-663eb0635758f34ab27aef7d1c04b4c4)
+[![ASIMOV Platform 25.0 Launches: Turning Web Data Into Verifiable Intelligence](./.img/screencap-apnews.jpeg)](https://apnews.com/press-release/ein-presswire-newsmatics/asimov-platform-25-0-launches-turning-web-data-into-verifiable-intelligence-663eb0635758f34ab27aef7d1c04b4c4)
 
 [ASIMOV Platform 25.0 Launches: Turning Web Data Into Verifiable Intelligence](https://apnews.com/press-release/ein-presswire-newsmatics/asimov-platform-25-0-launches-turning-web-data-into-verifiable-intelligence-663eb0635758f34ab27aef7d1c04b4c4)
 
 ### 2025-07-01 ASIMOV Blog
 
-[![Introducing ASIMOV: A Platform for Trustworthy Neurosymbolic AI](./.img/screencap-blog.jpg)](https://asimov.blog/introducing-asimov/)
+[![Introducing ASIMOV: A Platform for Trustworthy Neurosymbolic AI](./.img/screencap-blog.jpeg)](https://asimov.blog/introducing-asimov/)
 
 [Introducing ASIMOV: A Platform for Trustworthy Neurosymbolic AI](https://asimov.blog/introducing-asimov/)
 

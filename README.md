@@ -16,13 +16,14 @@ from [ASIMOV](https://asimov.systems).*
 
 When | Weekday | Where | Venue
 :--- | :------ | :---- | :----
-[April 2](https://luma.com/3m6y5xeo) | Thursday | Mountain View | Circuit Launch
+[April 2](https://luma.com/3m6y5xeo) | Thursday | Mountain View | [Circuit Launch]
 [March 19](https://luma.com/8ewasi4c) | Thursday | San Francisco | TBD
-[March 12](https://luma.com/y1eszitt) | Thursday | San Francisco (Downtown) | Cole Frieman & Mallon
-[March 5](https://luma.com/9n47y8c4) | Thursday | Oakland | Circuit Launch
-[November 25](https://luma.com/ne0t516s) | Tuesday | Mountain View | Circuit Launch
-[November 19](https://luma.com/x9i5ca56) | Wednesday | Oakland | Circuit Launch
-[November 12](https://luma.com/flmq0i8c) | Wednesday | San Francisco (Downtown) | Cole Frieman & Mallon
+[March 12](https://luma.com/y1eszitt) | Thursday | San Francisco (Downtown) | [Cole Frieman & Mallon]
+[March 5](https://luma.com/9n47y8c4) | Thursday | Oakland | [Circuit Launch]
+[December 11](https://luma.com/sh47gs22) | Thursday | San Francisco | Homebrew Club
+[November 25](https://luma.com/ne0t516s) | Tuesday | Mountain View | [Circuit Launch]
+[November 19](https://luma.com/x9i5ca56) | Wednesday | Oakland | [Circuit Launch]
+[November 12](https://luma.com/flmq0i8c) | Wednesday | San Francisco (Downtown) | [Cole Frieman & Mallon]
 
 ## Instructions
 
@@ -128,3 +129,6 @@ Name | Label | Summary | Package
 4. ✅ Sign up for [early access to ASIMOV Personal Intelligence](https://id.asimov.systems/join/asimov-devlabs-5):
 
 <p align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fid.asimov.systems%2Fjoin%2Fasimov-devlabs-5" alt="QR code for early access" style="max-width: 100%;"></p>
+
+[Circuit Launch]: https://circuitlaunch.com
+[Cole Frieman & Mallon]: https://colefrieman.com/contact/

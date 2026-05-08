@@ -21,6 +21,8 @@ from [ASIMOV](https://asimov.systems).*
 
 When | Weekday | Where | Venue
 :--- | :------ | :---- | :----
+[May 7](https://luma.com/asimov-devlabs-8) | Thursday | San Francisco | [Frontier Tower]
+[April 30](https://luma.com/asimov-devlabs-7) | Thursday | San Francisco | [Frontier Tower]
 [April 2](https://luma.com/3m6y5xeo) | Thursday | Mountain View | [Circuit Launch]
 [March 19](https://luma.com/8ewasi4c) | Thursday | San Francisco | TBD
 [March 12](https://luma.com/y1eszitt) | Thursday | San Francisco (Downtown) | [Cole Frieman & Mallon]
@@ -113,27 +115,28 @@ Name | Label | Summary | Package
 
 ## Asks
 
-1. ⭐ Star on GitHub:
+1. ⭐ Star us on GitHub!
   [asimov-platform/asimov-cli](https://github.com/asimov-platform/asimov-cli),
   [asimov-platform/asimov.rs](https://github.com/asimov-platform/asimov.rs),
   [asimov-platform/asimov.py](https://github.com/asimov-platform/asimov.py),
   [flux-doctrine/awesome-fbp](https://github.com/flux-doctrine/awesome-fbp)
 
-2. 👉 Follow on X (Twitter):
+2. 👉 Follow us on X (Twitter)!
   [@ASIMOV_Protocol](https://x.com/ASIMOV_Protocol),
   [@bendiken](https://x.com/bendiken),
   [@FellenzMusic](https://x.com/FellenzMusic),
   [@lux](https://x.com/lux)
 
-3. 🤝 Connect on LinkedIn:
+3. 🤝 Connect with us on LinkedIn!
   [ASIMOV Protocol](https://www.linkedin.com/company/asimov-protocol/),
   [Arto Bendiken](https://www.linkedin.com/in/arto/),
   [Tom Fellenz](https://www.linkedin.com/in/tomfellenz/),
   [Rob Kunkle](https://www.linkedin.com/in/robkunkle/)
 
-4. ✅ Sign up for [early access to ASIMOV Personal Intelligence](https://id.asimov.systems/join/asimov-devlabs-5):
+4. ✅ Sign up for [early access to ASIMOV Personal Intelligence](https://id.asimov.systems/join/asimov-devlabs-8)!
 
 <p align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fid.asimov.systems%2Fjoin%2Fasimov-devlabs-5" alt="QR code for early access" style="max-width: 100%;"></p>
 
 [Circuit Launch]: https://circuitlaunch.com
 [Cole Frieman & Mallon]: https://colefrieman.com/contact/
+[Frontier Tower]: https://frontiertower.io

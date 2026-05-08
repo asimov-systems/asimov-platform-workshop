@@ -12,6 +12,9 @@ from [ASIMOV](https://asimov.systems).*
 
 <p align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fgithub.com%2Fasimov-systems%2Fasimov-platform-workshop" alt="QR code for the link to this repository" style="max-width: 100%;"></p>
 
+<p align="center"><a href="https://x.com/bendiken/status/1982913874384019737"><img src="tweet-demo.png" alt="Link to my tweet of the October 2025 demo" style="max-width: 100%;"></a></p>
+
+
 ## [Events](https://luma.com/asimov-sf)
 
 When | Weekday | Where | Venue

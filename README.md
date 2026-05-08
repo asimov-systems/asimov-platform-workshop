@@ -4,11 +4,13 @@
 & Tom (tom@asimov.systems, [X](https://x.com/FellenzMusic), [LinkedIn](https://www.linkedin.com/in/tomfellenz/))
 from [ASIMOV](https://asimov.systems).*
 
-- [Events](#events)
-- [Reference](#reference)
-- [Modules](#modules)
-- [Reading](#reading)
-- [Asks](#asks)
+<p align="center">
+    <a href="#events">Events</a> |
+    <a href="#reference">Reference</a> |
+    <a href="#modules">Modules</a> |
+    <a href="#reading">Reading</a> |
+    <a href="#asks">Asks</a>
+</p>
 
 <p align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fgithub.com%2Fasimov-systems%2Fasimov-platform-workshop" alt="QR code for the link to this repository" style="max-width: 100%;"></p>
 
